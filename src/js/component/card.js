@@ -10,7 +10,9 @@ export function Card() {
 					alt="..."
 				/>
 				<div className="card-body-fluid">
-					<h5 className="card-title text-center">asd</h5>
+					<h5 className="card-title text-center mt-3">
+						Hello-Adelle
+					</h5>
 					<p className="card-text text-center">
 						Hello, can you hear me? I'm in California dreaming about
 						who we used to be When we were younger and free I've
