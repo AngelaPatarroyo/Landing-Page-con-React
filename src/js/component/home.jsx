@@ -14,6 +14,7 @@ const Home = () => {
 			<Navbar />
 			<div className="container">
 				<Jumbotron />
+
 				<div className="row justify-content-between mt-5">
 					<Card />
 					<Card />
